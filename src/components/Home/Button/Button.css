@@ -1,0 +1,14 @@
+.btn {
+  padding: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+}
+
+.btn.active {
+  background-color: rgb(202, 85, 49);
+}
+
+.btn[disabled] {
+  background-color: rgb(121, 163, 121);
+}

@@ -1,0 +1,10 @@
+
+.TodoList__item {
+  width: 300px;
+  margin: 0 auto;
+  text-align: left;
+  display: flex;
+  gap: 20px;
+  /* align-items: start; */
+  justify-content: flex-end;
+}
